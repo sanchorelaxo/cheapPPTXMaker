@@ -1,0 +1,170 @@
+[
+    {
+        "title": "Why Software Matters",
+        "text": "Software is not just a tool; it’s a medium that reshapes how we think, interact, and live.",
+        "keywords": "vintage computer, CRT monitor, human brain, neural circuits, binary code",
+        "notes": "Welcome the audience and introduce the theme. Explain how software, like all media, extends our capabilities but also shapes our perceptions. Quote McLuhan: 'The medium is the message.' Highlight that software is an extension of human thought and action."
+    },
+    {
+        "title": "The Four Laws of Media",
+        "text": "Every medium enhances, obsoletes, retrieves, and reverses aspects of human experience.",
+        "keywords": "tetrad diagram, lightbulb, hourglass, scroll, mirror",
+        "notes": "Introduce McLuhan’s four laws with a tetrad diagram. Explain that these laws reveal media’s hidden effects. Quote McLuhan: 'Every extension is also an amputation.' Use this to frame the discussion."
+    },
+    {
+        "title": "Today’s Mission",
+        "text": "Apply the four laws to social media, YouTube, AI, and software to explore their potential for empowerment or control.",
+        "keywords": "digital landscape, forked path, empowerment, control, surveillance",
+        "notes": "Outline the presentation’s goal. Use a split image to show the choice between empowerment and control. Quote McLuhan: 'We shape our tools, and thereafter our tools shape us.' Set the stage for critical analysis."
+    },
+    {
+        "title": "Enhancement – Amplifying Connection",
+        "text": "Social media makes communication instant, global, and accessible.",
+        "keywords": "3D globe, data streams, global connection, phones, laptops",
+        "notes": "Discuss how social media enhances communication. Use a world map visual to show global links. Quote McLuhan: 'The new electronic interdependence recreates the world in the image of a global village.'"
+    },
+    {
+        "title": "Obsolescence – Fading Old Bonds",
+        "text": "Traditional communication methods like letters and phone calls are becoming obsolete.",
+        "keywords": "handwritten letter, smartphone, notifications, rotary phone, typewriter",
+        "notes": "Explain how social media replaces older forms of communication. Use a fading letter visual. Quote McLuhan: 'Obsolescence never meant the end of anything, it’s just the beginning of something else.'"
+    },
+    {
+        "title": "Retrieval – The Global Village",
+        "text": "Social media revives the sense of a connected, tribal community.",
+        "keywords": "digital forest, campfire, avatars, holograms, tribal",
+        "notes": "Describe how social media brings back the tribal campfire experience. Use a digital campfire visual. Emphasize the return of communal interaction in a digital form."
+    },
+    {
+        "title": "Reversal – Isolation in a Connected World",
+        "text": "Overuse of social media can lead to isolation and echo chambers.",
+        "keywords": "city square, lone figure, smartphones, notifications, isolation",
+        "notes": "Discuss the unintended consequence of isolation. Use a lone figure visual. Quote McLuhan: 'The more you create village conditions, the more discontinuity and division and diversity.'"
+    },
+    {
+        "title": "Social Media Manifesto",
+        "text": "Design platforms for authentic interaction, prioritize user control, and promote digital literacy.",
+        "keywords": "tablet, social media app, privacy, data control, empowerment",
+        "notes": "Present a manifesto for social media. Use a mock-up visual of a transparent interface. Quote McLuhan: 'There is absolutely no inevitability as long as there is a willingness to contemplate what is happening.'"
+    },
+    {
+        "title": "Enhancement – Access for All",
+        "text": "YouTube empowers anyone to create and share video content.",
+        "keywords": "teenager, dance video, smartphone, holographic globe, audience",
+        "notes": "Explain how YouTube enhances access to content creation. Use a smartphone filming visual. Quote McLuhan: 'The user is the content.' Highlight the democratization of media."
+    },
+    {
+        "title": "Obsolescence – End of Traditional TV",
+        "text": "Scheduled broadcasts and theaters are losing relevance to on-demand streaming.",
+        "keywords": "CRT TV, static, monitor, YouTube, streaming",
+        "notes": "Discuss how YouTube makes traditional TV obsolete. Use a dusty TV visual. Mention the shift from passive viewing to active consumption."
+    },
+    {
+        "title": "Retrieval – Oral Storytelling",
+        "text": "YouTube revives the art of sharing stories and knowledge orally.",
+        "keywords": "vlogger, bard, avatars, storytelling, digital stage",
+        "notes": "Describe how YouTube brings back oral traditions. Use a vlogger-as-bard visual. Quote McLuhan: 'The content of any medium is always another medium.'"
+    },
+    {
+        "title": "Reversal – Information Overload",
+        "text": "Too much content leads to noise, distraction, and algorithm-driven traps.",
+        "keywords": "life preserver, YouTube thumbnails, chaos, algorithm, overload",
+        "notes": "Discuss the reversal into overload. Use a sea of thumbnails visual. Quote McLuhan: 'Too much of anything, however sweet, will always bring on the opposite.'"
+    },
+    {
+        "title": "YouTube Manifesto",
+        "text": "Curate content for quality, empower users to customize algorithms, and prioritize meaningful discovery.",
+        "keywords": "smartphone, YouTube app, filter buttons, personalized, café",
+        "notes": "Present a manifesto for YouTube. Use a redesigned interface visual. Encourage the audience to think about balancing freedom and focus."
+    },
+    {
+        "title": "Enhancement – Supercharging Productivity",
+        "text": "AI automates tasks, freeing humans for creative work.",
+        "keywords": "high-tech lab, engineer, robot, machine, teamwork",
+        "notes": "Explain how AI enhances productivity. Use a human-robot collaboration visual. Adapt McLuhan: 'The robot is an extension of our nervous system.'"
+    },
+    {
+        "title": "Obsolescence – Replacing Routine Labor",
+        "text": "Manual and repetitive jobs are becoming obsolete.",
+        "keywords": "factory, conveyor belt, code, AI bots, automation",
+        "notes": "Discuss how AI replaces routine labor. Use a conveyor-to-digital visual. Quote McLuhan: 'The future of work is learning.'"
+    },
+    {
+        "title": "Retrieval – The Leisure Society",
+        "text": "AI revives the dream of a society focused on creativity and leisure.",
+        "keywords": "studio, artist, robots, creativity, leisure",
+        "notes": "Describe how AI brings back the leisure society idea. Use a painting visual. Quote McLuhan: 'The future of work consists of learning a living.'"
+    },
+    {
+        "title": "Reversal – Dependency and Deskilling",
+        "text": "Over-reliance on AI risks loss of skills and societal vulnerability.",
+        "keywords": "gray room, human hand, robotic arm, wrench, skill erosion",
+        "notes": "Discuss the reversal into dependency. Use a weakened hand visual. Adapt McLuhan: 'The price of eternal vigilance is freedom.'"
+    },
+    {
+        "title": "AI Manifesto",
+        "text": "Build transparent, human-augmenting AI with oversight and ethical controls.",
+        "keywords": "dashboard, AI interface, transparency, fairness, accountability",
+        "notes": "Present a manifesto for AI. Use an ethical AI interface visual. Encourage the audience to consider AI as an enhancer, not a replacement."
+    },
+    {
+        "title": "Enhancement – Extending Human Capabilities",
+        "text": "Software amplifies creativity, productivity, and problem-solving.",
+        "keywords": "coder, superhero, code editors, binary bridge, skyscraper",
+        "notes": "Explain how software enhances human capabilities. Use a toolbelt visual. Quote McLuhan: 'We become what we behold.'"
+    },
+    {
+        "title": "Obsolescence – Outdating Analog Tools",
+        "text": "Typewriters, ledgers, and physical media are being replaced by digital solutions.",
+        "keywords": "typewriter, binary digits, laptop, spreadsheet, film reels",
+        "notes": "Discuss how software makes analog tools obsolete. Use a typewriter-to-code visual. Highlight the transition to digital workflows."
+    },
+    {
+        "title": "Retrieval – Craftsmanship",
+        "text": "Software development mirrors the artisanal creation of intricate systems.",
+        "keywords": "medieval forge, coder, keyboard, code, digital sword",
+        "notes": "Describe how software retrieves craftsmanship. Use a coder-as-blacksmith visual. Emphasize the skill and care in coding as a modern craft."
+    },
+    {
+        "title": "Reversal – Complexity and Fragility",
+        "text": "Overcomplicated software leads to bugs, breaches, and loss of control.",
+        "keywords": "A harried developer in a dimly lit basement sits at a desk, engulfed by a towering, writhing 3D web of red code strings, blinking error alerts, and spinning debugging icons. Sweat beads on their forehead as the web tightens, a crashed program flashing on their screen, depicting the suffocating chaos of software gone awry.",
+        "notes": "Discuss the reversal into complexity. Use a tangled code visual. Quote McLuhan: 'The medium is the massage.' Note how complexity can overwhelm users."
+    },
+    {
+        "title": "Software Manifesto",
+        "text": "Prioritize simplicity, security, and user empowerment in software design.",
+        "keywords": "In a bright, airy studio, a computer screen displays a minimalist software app with a clean white background. Icons for 'Open Source' (a green tree), 'Collaboration' (blue hands), and 'Transparency' (a yellow eye) orbit a central interface, where a user drags simple widgets into place, crafting a tool under warm sunlight, embodying intuitive and empowering design.",
+        "notes": "Present a manifesto for software. Use a clean interface visual. Encourage the audience to keep software as a tool for empowerment."
+    },
+    {
+        "title": "The Big Picture",
+        "text": "Software can empower or control—our choices define its path.",
+        "keywords": "crossroads, digital desert, freedom, oppression, city",
+        "notes": "Summarize the presentation’s theme. Use a fork in the road visual. Quote McLuhan: 'There is absolutely no inevitability as long as there is a willingness to contemplate what is happening.'"
+    },
+    {
+        "title": "Unified Manifesto",
+        "text": "Design software for human agency, transparency, and ethics, guided by the four laws.",
+        "keywords": "blueprint, architect, four cornerstones, ethical software, McLuhan laws",
+        "notes": "Present a unified manifesto. Use a blueprint visual. Stress the importance of intentional design for a humane digital future."
+    },
+    {
+        "title": "Call to Action",
+        "text": "Collaborate to shape software’s future—propose one empowering feature or policy.",
+        "keywords": "cliff, digital sea, team, binary bridge, collaboration",
+        "notes": "Challenge the audience to take action. Use a bridge-building visual. Quote McLuhan: 'The medium is the message.' Ask: What message will your software send?"
+    },
+    {
+        "title": "Open Discussion",
+        "text": "How will you rethink software’s role in your work or life?",
+        "keywords": "cosmic void, question mark, smartphones, laptops, reflection",
+        "notes": "Invite questions and reflections. Use a question mark visual. Encourage the audience to consider their relationship with software."
+    },
+    {
+        "title": "Closing – The Medium is Ours to Shape",
+        "text": "Software’s potential is vast, but ours to mold. Let’s choose empowerment.",
+        "keywords": "sunrise, futuristic city, green valley, tablets, drones",
+        "notes": "Conclude with a hopeful message. Use a sunrise visual. Quote McLuhan: 'We look at the present through a rearview mirror. We march backwards into the future.' Urge the audience to look forward."
+    }
+]
